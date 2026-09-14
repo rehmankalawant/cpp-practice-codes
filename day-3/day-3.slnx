@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bank-account/bank-account.vcxproj" Id="f742970f-2d1e-47f2-9aa1-857a2f89e7ef" />
+  <Project Path="book-management/book-management.vcxproj" Id="32439aaa-66cb-4093-bf3d-ab62092229e5" />
+  <Project Path="library-fine-calculator/library-fine-calculator.vcxproj" Id="6d8ac7c6-1c33-403a-ac63-47db171d3b9c" />
+  <Project Path="vehicle-registration-system/vehicle-registration-system.vcxproj" Id="1d96f1eb-bc1d-4c01-9eae-e50585a6c632" />
+</Solution>
