@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="complex-number-addition/complex-number-addition.vcxproj" Id="8a69642c-1c6a-4d0b-a01c-8c50ce430b8b" />
+  <Project Path="distance-comparison-and-addition/distance-comparison-and-addition.vcxproj" Id="5a34e3f4-0719-49d8-b170-50802cbf4eee" />
+  <Project Path="dynamic-integer-storage/dynamic-integer-storage.vcxproj" Id="ab3d998b-f361-4c75-9ce9-595dcb039b89" />
+  <Project Path="library-member-records/library-member-records.vcxproj" Id="f4e8bdd0-6aa2-41a9-95ec-14c673cc0f9e" />
+  <Project Path="operator-overloading-all-operators/operator-overloading-all-operators.vcxproj" Id="35366b57-8cb0-4974-a4b5-fac4c356af4a" />
+</Solution>
