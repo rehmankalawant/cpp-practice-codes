@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="class-templates/class-templates.vcxproj" Id="6d5f38a2-5219-4450-b0ea-939166e66779" />
+  <Project Path="file-handling-in-cpp/file-handling-in-cpp.vcxproj" Id="9f1a3701-7954-4c69-b4ca-60f6f98e63d4" />
+  <Project Path="function-templates/function-templates.vcxproj" Id="fa9768dd-0b78-4727-a598-f8825a2abd37" />
+</Solution>
