@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="airline-baggage-and-boarding-pass-fee-engine/airline-baggage-and-boarding-pass-fee-engine.vcxproj" Id="927af197-6e7a-4844-a7ed-66f9b2b5ffec" />
+  <Project Path="automated-investment-portfolio/automated-investment-portfolio.vcxproj" Id="e26f9021-8a3b-4b8f-9434-3295a3a117d7" />
+</Solution>
