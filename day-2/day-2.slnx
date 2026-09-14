@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dynamic-memory-allocation-of-arrays/dynamic-memory-allocation-of-arrays.vcxproj" Id="338cd4b6-180b-434a-a9fa-edf7e6a63b83" />
+  <Project Path="pass-by-address-and-reference/pass-by-address-and-reference.vcxproj" Id="fd7d4ee7-4c2c-47c7-be7e-da40c067c893" />
+</Solution>
