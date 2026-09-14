@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="banking-digital-wallet-system/banking-digital-wallet-system.vcxproj" Id="4b361dd7-272d-4ffd-8933-6992f5ec13d5" />
+</Solution>
