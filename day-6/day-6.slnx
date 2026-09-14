@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="financial-account-management-system/financial-account-management-system.vcxproj" Id="1bf63f2a-b9f9-4bba-ba42-2c78f575f864" />
+  <Project Path="hospital-billing-system-using-inheritance-polymorphism-and-rtti/hospital-billing-system-using-inheritance-polymorphism-and-rtti.vcxproj" Id="c714714c-439a-4f37-abe7-34982d1bc09b" />
+</Solution>
