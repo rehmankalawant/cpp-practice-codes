@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="if-else/if-else.vcxproj" Id="4eca1a3a-9db0-437d-ae54-593ec817e636" />
+  <Project Path="loops/loops.vcxproj" Id="a5f5c35f-777a-4501-9897-d09438998267" />
+  <Project Path="switch-case/switch-case.vcxproj" Id="18407a77-44cc-4336-8641-a848b00e1f50" />
+</Solution>
