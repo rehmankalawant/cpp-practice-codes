@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="containment-of-objects/containment-of-objects.vcxproj" Id="460725e0-0ed3-4891-bc39-1ce127577bb3" />
+</Solution>
